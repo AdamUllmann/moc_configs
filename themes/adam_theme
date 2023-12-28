@@ -1,0 +1,41 @@
+##############################################################################
+# Copy what's below and save it in ~/.moc/themes/adam_theme
+# adam_theme is the name of the file; don't give it an extension.
+# Also, create the themes folder if it doesn't exist.
+##############################################################################
+
+background           = black  default normal
+frame                = cyan   default bold
+window_title         = white  default bold
+directory            = cyan   default normal
+selected_directory   = cyan   black bold
+playlist             = white  default normal
+selected_playlist    = cyan   black bold
+file                 = green  default normal
+selected_file        = green  black bold
+marked_file          = yellow default bold,blink
+marked_selected_file = white  black bold
+info                 = blue   default normal
+selected_info        = blue   black bold
+marked_info          = blue  default bold,blink
+marked_selected_info = white  black bold
+status               = black  white normal
+title                = yellow default bold
+state                = red  default bold,blink
+current_time         = white  default normal
+time_left            = black  default bold
+total_time           = green  default normal
+time_total_frames    = black  default bold
+sound_parameters     = white  default normal
+legend               = green  default normal
+disabled             = black  default bold
+enabled              = white  default normal
+empty_mixer_bar      = white  default normal
+filled_mixer_bar     = black  white normal
+empty_time_bar       = black  default normal
+filled_time_bar      = black  white bold
+entry                = white  default normal
+entry_title          = black  white normal
+error                = red default bold
+message              = red default bold
+plist_time           = blue   default normal
